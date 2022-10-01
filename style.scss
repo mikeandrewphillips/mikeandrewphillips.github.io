@@ -160,7 +160,7 @@ img {
 
 .masthead {
   padding: 20px 0;
-  border-bottom: 1px solid $lightGray;
+  border-bottom: 1px solid $nord10;
 
   @include mobile {
     text-align: center;
@@ -258,9 +258,9 @@ nav {
 .post {
   blockquote {
     margin: 1.8em .8em;
-    border-left: 2px solid $gray;
+    border-left: 2px solid $nord10;
     padding: 0.1em 1em;
-    color: $gray;
+    color: $nord10;
     font-size: 22px;
     font-style: italic;
   }

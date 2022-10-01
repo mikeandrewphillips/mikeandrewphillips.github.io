@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Hello World!
+title: Sleepy Sunday
 ---
 
-2nd Post
+Always Chores

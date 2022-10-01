@@ -4,12 +4,12 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Over the past decade I have transitioned from Project Management to Networking Engineering to Platform Engineering. I am currently working in a cloud centric CI/CD role.
 
 ### More Information
 
-A place to include any other types of information that you'd like to include about yourself.
+I have two cats, I love my Ford Maverick, and I root for Auburn Football.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+Please reach out to me on LinkedIn or Twitter
